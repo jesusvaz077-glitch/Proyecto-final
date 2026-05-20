@@ -1,4 +1,4 @@
-    #include <stdio.h>
+#include <stdio.h>
 
 #define MAX_OYENTES   100
 #define NUM_CANCIONES 10
